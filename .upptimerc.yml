@@ -13,8 +13,8 @@ sites:
     url: https://norson.jeanlogistics.com/seguridad_industrial
   - name: Bustracker - LandingPage
     url: http://www.jeanlogistics.com/bustracker/
-  - name: Dp - Tracking
-    url: https://tracking.grupodp.com.mx/web/
+  #- name: Dp - Tracking
+  #  url: https://tracking.grupodp.com.mx/web/
   - name: Matatias
     url: https://matatias.jeanlogistics.com/web/
 
@@ -23,10 +23,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /jeanlogistics-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-9/cp0/e15/q65/p320x320/151584348_106060834859345_4498756817865479275_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=dd9801&efg=eyJpIjoidCJ9&_nc_ohc=01lK4D1tLigAX-34dJf&_nc_ht=scontent-mia3-2.xx&oh=00_AT_sqoK9syIVypeuNV33TOaLunL0whXwpFMdGJpI03H06Q&oe=621D52E6
   name: JeanLogistics
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Nos dedicamos a la automatización de procesos operativos de las organizaciones para que éstos fluyan en su lógica natural y evitar perdidas de tiempo y ahorro de costos."
+  introMessage: Estado de nuestros Servicios
   navbar:
     - title: Status
       href: /
