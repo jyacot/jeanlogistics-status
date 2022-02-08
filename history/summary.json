@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 198,
     "timeDay": 183,
-    "timeWeek": 198,
+    "timeWeek": 193,
     "timeMonth": 198,
     "timeYear": 198,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 290,
     "timeDay": 401,
-    "timeWeek": 290,
+    "timeWeek": 324,
     "timeMonth": 290,
     "timeYear": 290,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 163,
-    "timeWeek": 194,
+    "timeWeek": 207,
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 524,
     "timeDay": 615,
-    "timeWeek": 524,
+    "timeWeek": 735,
     "timeMonth": 524,
     "timeYear": 524,
     "dailyMinutesDown": {}
@@ -94,17 +94,19 @@
     "url": "https://matatias.jeanlogistics.com/web/",
     "icon": "https://favicons.githubusercontent.com/matatias.jeanlogistics.com",
     "slug": "matatias",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 174,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
-    "dailyMinutesDown": {}
+    "time": 271,
+    "timeDay": 160,
+    "timeWeek": 330,
+    "timeMonth": 271,
+    "timeYear": 271,
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   }
 ]
