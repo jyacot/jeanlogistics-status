@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 183,
-    "timeWeek": 193,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 199,
+    "timeDay": 210,
+    "timeWeek": 191,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 58,
-    "timeWeek": 56,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "time": 58,
+    "timeDay": 78,
+    "timeWeek": 60,
+    "timeMonth": 58,
+    "timeYear": 58,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 401,
+    "time": 281,
+    "timeDay": 181,
     "timeWeek": 324,
-    "timeMonth": 290,
-    "timeYear": 290,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 163,
-    "timeWeek": 207,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "time": 210,
+    "timeDay": 381,
+    "timeWeek": 240,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 615,
-    "timeWeek": 735,
-    "timeMonth": 524,
-    "timeYear": 524,
+    "time": 497,
+    "timeDay": 197,
+    "timeWeek": 739,
+    "timeMonth": 497,
+    "timeYear": 497,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/matatias.jeanlogistics.com",
     "slug": "matatias",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 265,
-    "timeDay": 172,
-    "timeWeek": 315,
-    "timeMonth": 265,
-    "timeYear": 265,
-    "dailyMinutesDown": {
-      "2022-02-08": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 258,
+    "timeDay": 168,
+    "timeWeek": 200,
+    "timeMonth": 258,
+    "timeYear": 258,
+    "dailyMinutesDown": {}
   }
 ]
