@@ -94,19 +94,19 @@
     "url": "https://matatias.jeanlogistics.com/web/",
     "icon": "https://favicons.githubusercontent.com/matatias.jeanlogistics.com",
     "slug": "matatias",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 202,
-    "timeWeek": 180,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 230,
+    "timeDay": 186,
+    "timeWeek": 177,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-02-15": 0
+      "2022-02-15": 5
     }
   }
 ]
