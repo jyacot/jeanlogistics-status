@@ -40,18 +40,20 @@
     "url": "https://norson.jeanlogistics.com/seguridad_patrimonial",
     "icon": "https://favicons.githubusercontent.com/norson.jeanlogistics.com",
     "slug": "norson-seguridad-patrimonial",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 225,
-    "timeWeek": 143,
+    "time": 206,
+    "timeDay": 185,
+    "timeWeek": 144,
     "timeMonth": 149,
-    "timeYear": 207,
-    "dailyMinutesDown": {}
+    "timeYear": 206,
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   },
   {
     "name": "Norson -  Seguridad Industrial",
